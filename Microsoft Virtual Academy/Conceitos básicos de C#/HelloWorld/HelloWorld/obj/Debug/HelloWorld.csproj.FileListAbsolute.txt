@@ -1,0 +1,6 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
