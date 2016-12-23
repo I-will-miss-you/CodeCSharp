@@ -1,0 +1,6 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\ForIteration\ForIteration\bin\Debug\ForIteration.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\ForIteration\ForIteration\bin\Debug\ForIteration.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\ForIteration\ForIteration\bin\Debug\ForIteration.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\ForIteration\ForIteration\obj\Debug\ForIteration.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\ForIteration\ForIteration\obj\Debug\ForIteration.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\ForIteration\ForIteration\obj\Debug\ForIteration.pdb
