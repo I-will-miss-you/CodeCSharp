@@ -1,0 +1,4 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\ScrapeClient\ScrapeLibrary\bin\Debug\ScrapeLibrary.dll
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\ScrapeClient\ScrapeLibrary\bin\Debug\ScrapeLibrary.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\ScrapeClient\ScrapeLibrary\obj\Debug\ScrapeLibrary.dll
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\ScrapeClient\ScrapeLibrary\obj\Debug\ScrapeLibrary.pdb

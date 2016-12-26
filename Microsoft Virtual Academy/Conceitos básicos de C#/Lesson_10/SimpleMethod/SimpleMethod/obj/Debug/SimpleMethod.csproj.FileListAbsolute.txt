@@ -1,0 +1,5 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.pdb

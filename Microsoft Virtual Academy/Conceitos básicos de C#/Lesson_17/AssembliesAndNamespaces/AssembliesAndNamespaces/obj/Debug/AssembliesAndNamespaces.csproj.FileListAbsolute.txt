@@ -1,0 +1,5 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.pdb

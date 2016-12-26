@@ -1,0 +1,8 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\ScrapeClient\ScrapeClient\bin\Debug\ScrapeClient.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\ScrapeClient\ScrapeClient\bin\Debug\ScrapeClient.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\ScrapeClient\ScrapeClient\bin\Debug\ScrapeClient.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\ScrapeClient\ScrapeClient\bin\Debug\ScrapeLibrary.dll
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\ScrapeClient\ScrapeClient\bin\Debug\ScrapeLibrary.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\ScrapeClient\ScrapeClient\obj\Debug\ScrapeClient.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\ScrapeClient\ScrapeClient\obj\Debug\ScrapeClient.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\ScrapeClient\ScrapeClient\obj\Debug\ScrapeClient.pdb

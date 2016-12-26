@@ -1,0 +1,920 @@
+
+
+<!DOCTYPE html>
+<html dir="ltr" lang="pt-PT">
+<head>
+<meta charset="UTF-8" />
+<title>Universidade Fernando Pessoa</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="http://www.ufp.pt/wp-content/themes/ufp/style.css" media="all" />
+<link rel="pingback" href="http://www.ufp.pt/xmlrpc.php" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Universidade Fernando Pessoa" />
+
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js'></script>
+<script type='text/javascript' src='/js/menulateral.js'></script>   
+<script type="text/javascript" src="/js/jquery.coda-slider-2.0.js"></script>
+<script type="text/javascript" src="/js/menu_cruz.js"></script>
+<script type="text/javascript" src="/js/javascript.js"></script>
+
+
+<!-- Begin JavaScript -->
+
+		 <script type="text/javascript">
+			$().ready(function() {
+				$('#coda-slider-1').codaSlider();
+			});
+		 </script>
+	<!-- End JavaScript -->
+    
+    
+<script type="text/javascript">
+ 
+// When the DOM is ready, initialize the scripts.
+jQuery(function( $ ){
+ 
+ 
+ 
+// Get a reference to the container.
+var container = $( "#barra" );
+var m1 = $( "#submenu1" );
+var m2 = $( "#submenu2" );
+var m3 = $( "#submenu3" );
+var m4 = $( "#submenu4" );
+var m5 = $( "#submenu5" );
+var m6 = $( "#noticiasx" );
+ 
+// Bind the link to toggle the slide.
+$( "#menu" ).click(
+	function( event ){
+		// Prevent the default event.
+		event.preventDefault();
+		// Toggle the slide based on its current
+		// visibility.
+		if ($("#openCloseIdentifier").is(":hidden")== false) {
+			// Hide - slide up.
+			container.animate({height: "105px"}, 500);
+			$("#openCloseIdentifier").hide();
+			m1.animate({height: "140px"}, 500);
+			m2.animate({height: "140px"}, 500);
+			m3.animate({height: "140px"}, 500);
+			m4.animate({height: "140px"}, 500);
+			m5.animate({height: "140px"}, 500);
+			m6.animate({transparency: "50"},400);
+			
+		} else {	 
+			// Show - slide down.
+			container.animate({height: "0px"}, 500);
+			$("#openCloseIdentifier").show();
+			
+			m1.animate({height: "0px"}, 500);
+			m2.animate({height: "0px"}, 500);
+			m3.animate({height: "0px"}, 500);
+			m4.animate({height: "0px"}, 500);
+			m5.animate({height: "0px"}, 500);
+			m6.animate({transparency: "50%"},400);
+		}
+	}
+);
+});
+ 
+</script>
+
+<!-- FIM DA PARTE DAS NEWS -->
+
+<link rel="alternate" type="application/rss+xml" title="Universidade Fernando Pessoa &raquo; Feed" href="http://www.ufp.pt/feed" />
+<link rel="alternate" type="application/rss+xml" title="Universidade Fernando Pessoa &raquo; Feed de ComentÃ¡rios" href="http://www.ufp.pt/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Feed de ComentÃ¡rios de Universidade Fernando Pessoa &raquo; Home" href="http://www.ufp.pt/home/feed" />
+<link rel='stylesheet' id='woocommerce_frontend_styles-css'  href='http://www.ufp.pt/wp-content/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce_fancybox_styles-css'  href='http://www.ufp.pt/wp-content/plugins/woocommerce/assets/css/fancybox.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='validate-engine-css-css'  href='http://www.ufp.pt/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.ufp.pt/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-style-css'  href='http://www.ufp.pt/wp-content/plugins/cookie-warning/cookiewarning.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rps2-style-css'  href='http://www.ufp.pt/wp-content/plugins/recent-posts-slider-mini/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rps-style-css'  href='http://www.ufp.pt/wp-content/plugins/recent-posts-slider/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-css'  href='http://www.ufp.pt/wp-content/plugins/slideshow-gallery/css/colorbox.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.ufp.pt/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/plugins/jquery-mega-menu/js/jquery.hoverIntent.minified.js'></script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/plugins/jquery-mega-menu/js/jquery.dcmegamenu.1.3.4.min.js'></script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-includes/js/swfobject.js'></script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-includes/js/comment-reply.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var user_options = {"messageContent":"Para que este site funcione corretamente, e de forma a avaliar e melhorar o site, precisamos armazenar arquivos pequenos (chamados cookies) no seu computador. <br\/> Mais de 90% dos sites fazem isso, no entanto, desde o dia 25 de maio de 2011, somos obrigados pelos regulamentos da UE a obter o seu consentimento em primeiro lugar. Aceita?","redirectLink":"http:\/\/google.com","okText":"Aceito","notOkText":"Rejeito","cookieName":"jsCookiewarning29Check","ajaxUrl":"http:\/\/www.ufp.pt\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/plugins/cookie-warning/cookiewarning.js'></script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/plugins/slideshow-gallery/js/gallery.js'></script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/plugins/slideshow-gallery/js/colorbox.js'></script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/themes/canvas/includes/js/slides.min.jquery.js'></script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/themes/canvas/includes/js/feedback.js'></script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/themes/canvas/includes/js/general.js'></script>
+<link rel='next' title='Pessoas' href='http://www.ufp.pt/universidade/contactos/pessoas' />
+<link rel='canonical' href='http://www.ufp.pt/' />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-87088629-2']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+	<link rel="stylesheet" type="text/css" href="http://www.ufp.pt/wp-content/plugins/jquery-mega-menu/css/dcjq-mega-menu.css" media="screen" /><style type="text/css" media="screen"></style><style type="text/css" media="screen"></style><link rel="stylesheet" href="http://www.ufp.pt/wp-content/plugins/stream-video-player/responsive.css?ver=" type="text/css" media="all" />
+
+<!-- WooCommerce Version -->
+<meta name="generator" content="WooCommerce 1.3.2.1" />
+
+
+<!-- Theme version -->
+<meta name="generator" content="Canvas 4.7.5" />
+<meta name="generator" content="WooFramework 5.0.3" />
+
+<!-- Woo Custom Styling -->
+<style type="text/css">
+body {background-image:url(http://www.ufp.pt/docs/fundo.gif);background-repeat:repeat;background-position:top center;border-top:4px solid #000000;}
+#header {background-repeat:no-repeat;background-position:top center;margin-top:0px;margin-bottom:0px;padding-top:40px;padding-bottom:30px;border:0px solid ;}
+#logo .site-title a {font:normal 40px/1em 'Abel', arial, sans-serif;color:#222222;}
+#logo .site-description {font:italic 14px/1em 'PT Serif', arial, sans-serif;color:#999999;}
+body, p { font:normal 12px/1.5em 'Exo', arial, sans-serif;color:#555555; }
+h1 { font:normal 28px/1.5em 'Exo', arial, sans-serif;color:#222222; }h2 { font:normal 24px/1.5em 'Exo', arial, sans-serif;color:#222222; }h3 { font:normal 20px/1.5em 'Exo', arial, sans-serif;color:#222222; }h4 { font:normal 16px/1.5em 'Exo', arial, sans-serif;color:#222222; }h5 { font:normal 14px/1.5em 'Exo', arial, sans-serif;color:#222222; }h6 { font:normal 12px/1.5em 'Exo', arial, sans-serif;color:#222222; }
+.post .title, .page .title, .post .title a:link, .post .title a:visited, .page .title a:link, .page .title a:visited {font:normal 18px/1.2em 'PT Sans', arial, sans-serif;color:#0f5232;}
+.post-meta { font:normal 12px/1.5em 'PT Sans', arial, sans-serif;color:#868686; }
+.entry, .entry p{ font:normal 13px/1.5em 'PT Sans', arial, sans-serif;color:#555555; }
+.post-more {font:normal 12px/1.5em Arial, sans-serif;color:#868686;border-top:4px solid #e6e6e6;border-bottom:1px solid #e6e6e6;}
+#post-author, #connect {border-top:1px solid #e6e6e6;border-bottom:4px solid #e6e6e6;background-color:#fafafa}
+.nav-entries, .wp-pagenavi, .woo-pagination {border-top:1px solid #e6e6e6;border-bottom:4px solid #e6e6e6; padding: 12px 0px; }
+.nav-entries a, .wp-pagenavi a:link, .wp-pagenavi a:visited, .wp-pagenavi .current, .wp-pagenavi .on, .wp-pagenavi a:hover, .wp-pagenavi span.extend, .wp-pagenavi span.pages, .woo-pagination { font:italic 12px/1em 'PT Serif', arial, sans-serif;color:#777777; }
+.wp-pagenavi a:link, .wp-pagenavi a:visited, .woo-pagination a, .woo-pagination a:hover, .wp-pagenavi span.extend, .wp-pagenavi span.pages, .wp-pagenavi span.current {color:#777777!important}
+.widget h3 {font:bold 14px/1.5em PT Serif;color:#555555;border-bottom:3px solid #e6e6e6;}
+.widget_recent_comments li, #twitter li { border-color: #e6e6e6;}
+.widget p, .widget .textwidget { font:normal 12px/1.5em Arial, sans-serif;color:#555555; }
+.widget {font:normal 12px/1.5em Arial, sans-serif;color:#555555;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;}
+#tabs .inside li a { font:bold 12px/1.5em 'PT Serif', arial, sans-serif;color:#555555; }
+#tabs .inside li span.meta, #tabs ul.wooTabs li a { font:normal 11px/1.5em "Trebuchet MS", Tahoma, sans-serif;color:#777777; }
+.nav a, #navigation ul.rss a { font:normal 14px/1em Arial, sans-serif;color:#555555; }
+#navigation {border-top:0px solid #dbdbdb;border-bottom:0px solid #dbdbdb;border-left:0px solid #dbdbdb;border-right:0px solid #dbdbdb;border-radius:0px; -moz-border-radius:0px; -webkit-border-radius:0px;}
+#top .nav a { font:normal 14px/1em Arial, sans-serif;color:#ddd; }
+#footer, #footer p { font:normal 9px/1em Arial, sans-serif;color:#ffffff; }
+#footer {background-color:#000000;border-top:0px solid #dbdbdb;border-bottom:0px solid ;border-left:0px solid ;border-right:0px solid ;border-radius:0px; -moz-border-radius:0px; -webkit-border-radius:0px;}
+.magazine #loopedSlider .content h2.title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.magazine #loopedSlider .content .excerpt p { font:normal 12px/1.5em Arial, sans-serif;color:#cccccc; }
+.business #loopedSlider .content h2.title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.business #loopedSlider .content p { font:normal 12px/1.5em Arial, sans-serif;color:#cccccc; }
+.archive_header { font:normal 18px/1em Arial, sans-serif;color:#555555;border-bottom:5px solid #e6e6e6;}
+.archive_header .catrss { display:none; }
+</style>
+<!-- /Woo Custom Styling -->
+
+
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=Exo:r,b,i,bi|Abel|PT+Serif:r,b,i,bi|PT+Sans:r,b,i,bi" rel="stylesheet" type="text/css" />
+
+
+	<link rel="stylesheet" href="http://www.ufp.pt/wp-content/plugins/jquery-mega-menu/skin.php?widget_id=2&amp;skin=ufp" type="text/css" media="screen"  />	
+
+	<!-- Woo Slider Setup -->
+
+	<script type="text/javascript">
+
+	jQuery(window).load(function(){
+
+		if ( jQuery( '#loopedSlider .slide' ).length > 1 ) {
+
+		    jQuery( '#loopedSlider' ).slides({
+
+				preload: true,
+
+				preloadImage: 'http://www.ufp.pt/wp-content/themes/canvas/images/loading.png',
+
+		        play: 7000, 
+
+		        
+		         fadeSpeed: 600, 
+
+		        
+		        autoHeight: true,
+
+		        hoverPause: true,
+
+		        bigTarget: false, 
+
+		        next: 'next', 
+
+		        prev: 'previous', 
+
+		        container: 'slides', 
+
+		        effect: 'fade', 
+
+		        crossfade: false, 
+
+		        generatePagination: false
+		        , slidesLoaded: function () { jQuery( '#loopedSlider .slides' ).css( 'height', jQuery( '#loopedSlider .slide:first' ).height() ); } 
+		    });
+
+	    
+
+	    	jQuery( '#loopedSlider .pagination' ).wrap( '<div class="pagination-wrap" />' );
+
+	    	
+
+	    } else {
+
+	    	// Hide the next/previous buttons.
+
+	    	jQuery( '#loopedSlider a.next, #loopedSlider a.previous' ).fadeOut();
+
+	    	jQuery( '#loopedSlider .slides' ).fadeIn();
+
+	    	var newHeight = jQuery( '#loopedSlider .slide:first' ).height();
+
+	    	
+
+	    	jQuery( '#loopedSlider .slides, #loopedSlider .container' ).css( 'height', newHeight );
+
+		}
+
+	});
+
+	</script>
+
+	
+	<!-- /Woo Slider Setup -->
+
+	<!-- Woo Shortcodes CSS -->
+<link href="http://www.ufp.pt/wp-content/themes/canvas/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="http://www.ufp.pt/wp-content/themes/canvas/custom.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+<body class="home page page-id-25 page-template page-template-template-magazine-php theme-ufp site unknown two-col-left width-960 two-col-left-960">
+
+<div id="wrapper">     
+
+	    
+	<div id="header" class="col-full">
+ 		
+        
+    <!-- inicio da cruz -->
+  
+	 <div id="icon_bus" onClick="window.location = '/como-chegar-de-autocarro';">
+   		<img src="/img/autocarro.png" />
+  	</div>
+  
+  	<div id="icon_auto" onClick="window.location = '/como-chegar-de-automovel';">
+   	 	<img src="/img/automovel.png" />
+ 	</div>
+ 
+  	<div id="icon_metro" onClick="window.location = '/como-chegar-de-metro';">
+    	<img src="/img/metro.png" />
+  	</div>
+  
+  <!-- FIM da cruz-->
+  
+  
+		       
+		<div id="logo">
+		<a href="http://www.ufp.pt/" title="Site oficial da Universidade Fernando Pessoa"><img src="http://www.ufp.pt/docs/titulo.png" alt="Universidade Fernando Pessoa" /></a>
+<h1 class="site-title"><a href="http://www.ufp.pt/">Universidade Fernando Pessoa</a></h1>
+<span class="site-description">Site oficial da Universidade Fernando Pessoa</span>
+		</div><!-- /#logo -->
+        
+        
+         <div class="lingua"><a style="color:#666" href="http://international.ufp.pt/">English</a>
+					</div>
+     
+	      
+         <div class="comochegar " onClick="triggerMenu(event);">
+         	<a href="#">
+			<div class="imagemtopo">
+				<img  align="left" src="/img/como-chegar.png" width="36" height="36" alt="Como chegar ï¿½ Universidade Fernando Pessoa">
+             </div>
+	    	     <div class="textotopo">Como Chegar &agrave;</div><div class="textotopo1">Universidade</div>
+            </a> 
+         </div>
+         
+         <div class="contactos">
+   	     <a href="/universidade/contactos/contactos-localizacao">
+         	<div class="imagemtopo">
+	         	<img  align="left" src="/img/linha-directa.png" width="36" height="36" alt="Contactos">
+            </div>
+         <div class="textotopo3">225 071 300</div><div class="textotopo4">Contactos </div></a>
+         </div>
+       
+
+    <div class="wrapmenu">
+    	<!-- #MENU -->
+                
+				<div id="menu-ufp">		<div class="dcjq-mega-menu" id="dc_jqmegamenu_widget-2-item">
+		
+		<ul id="menu-titulos" class="menu"><li id="menu-item-998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-998"><a>Universidade</a>
+<ul class="sub-menu">
+	<li id="menu-item-1000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000"><a title="A UFP">A UFP</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4490"><a href="http://www.ufp.pt/universidade/apresentacao-2/ufp">ApresentaÃ§Ã£o</a></li>
+		<li id="menu-item-1018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018"><a href="http://www.ufp.pt/universidade/apresentacao-2/historia">HistÃ³ria</a></li>
+		<li id="menu-item-1082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1082"><a href="http://www.ufp.pt/universidade/apresentacao-2/patrono">Patrono</a></li>
+		<li id="menu-item-11123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11123"><a href="http://www.ufp.pt/mapas-do-campus">Campus</a></li>
+		<li id="menu-item-1094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1094"><a href="http://www.ufp.pt/universidade/servicos-academicos/gabinete-de-recursos-humanos">Recursos Humanos</a></li>
+		<li id="menu-item-1451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1451"><a href="http://ri.ufp.pt/">RelaÃ§Ãµes Internacionais</a></li>
+	</ul>
+</li>
+	<li id="menu-item-12396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12396"><a>ComunicaÃ§Ã£o</a>
+	<ul class="sub-menu">
+		<li id="menu-item-15719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15719"><a href="http://www.ufp.pt/acolhimento">Acolhimento</a></li>
+		<li id="menu-item-12397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12397"><a href="http://www.ufp.pt/universidade/apresentacao-2/ufp/gabinete-de-comunicacao-e-imagem">Gabinete de ComunicaÃ§Ã£o</a></li>
+		<li id="menu-item-12402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12402"><a href="http://homepage.ufp.pt/gci/logotipo_ufp_web/index2.html">Identidade &#8211; LogÃ³tipo</a></li>
+		<li id="menu-item-12403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12403"><a href="http://www.ufp.pt/universidade/apresentacao-2/ufp/gabinete-de-comunicacao-e-imagem/revista-de-imprensa">Revista de Imprensa</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2080"><a>ServiÃ§os AcadÃ©micos</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1066"><a href="http://www.ufp.pt/universidade/servicos-academicos/gabinete-de-accao-social-escolar">AcÃ§Ã£o Social Escolar</a></li>
+		<li id="menu-item-1457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1457"><a href="http://www.ufp.pt/universidade/servicos-academicos/gabinete-de-estagios">GESP &#8211; EstÃ¡gios</a></li>
+		<li id="menu-item-17567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17567"><a href="http://www.ufp.pt/secretaria-e-ingresso">Secretaria e Ingresso</a></li>
+		<li id="menu-item-12882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12882"><a href="http://sic.ufp.pt/">Sistemas de InformaÃ§Ã£o</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2081" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2081"><a>Contactos</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1461"><a href="http://www.ufp.pt/universidade/contactos/contactos-localizacao">Contactos e LocalizaÃ§Ã£o</a></li>
+		<li id="menu-item-1075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1075"><a href="http://www.ufp.pt/universidade/contactos/pessoas">Pesquisar Pessoas</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-999"><a>Ensino</a>
+<ul class="sub-menu">
+	<li id="menu-item-1027" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1027"><a>Cursos</a>
+	<ul class="sub-menu">
+		<li id="menu-item-12666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12666"><a href="http://www.ufp.pt/ensino/1o-ciclo-e-mestrados-integrados">1Âº Ciclo e Mestrados Integrados</a></li>
+		<li id="menu-item-12653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12653"><a href="http://www.ufp.pt/ensino/2o-ciclo">2Âº Ciclo</a></li>
+		<li id="menu-item-12257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12257"><a href="http://www.ufp.pt/ensino/3o-ciclo">3Âº Ciclo</a></li>
+		<li id="menu-item-12205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12205"><a href="http://www.ufp.pt/ensino/pos-graduacoes">PÃ³s-graduaÃ§Ãµes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1090"><a>Ingresso</a>
+	<ul class="sub-menu">
+		<li id="menu-item-12385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12385"><a href="http://www.ufp.pt/ensino/informacao-sobre-candidaturas">CondiÃ§Ãµes de Ingresso</a></li>
+		<li id="menu-item-2910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2910"><a href="http://candidaturas.ufp.pt">Candidaturas Online</a></li>
+		<li id="menu-item-12215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12215"><a href="http://www.ufp.pt/ensino/estudantes-externos">Estudantes Externos</a></li>
+		<li id="menu-item-16385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16385"><a href="http://www.ufp.pt/ano-zero">Ano Zero</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1127"><a>Maiores de 23</a>
+	<ul class="sub-menu">
+		<li id="menu-item-16406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16406"><a href="http://www.ufp.pt/maiores-de-23-anos">Ingresso M23</a></li>
+		<li id="menu-item-16413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16413"><a href="http://www.ufp.pt/maiores-de-23-anos/taxas-m23">Taxas M23</a></li>
+		<li id="menu-item-16422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16422"><a href="http://www.ufp.pt/maiores-de-23-anos/condicoes-para-toc">CondiÃ§Ãµes para TOC</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1030" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1030"><a>Faculdades</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3838"><a href="http://fchs.ufp.pt/">CiÃªncias Humanas e Sociais</a></li>
+		<li id="menu-item-2083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2083"><a href="http://fct.ufp.pt">CiÃªncia e Tecnologia</a></li>
+		<li id="menu-item-3839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3839"><a href="http://fcs.ufp.pt/">CiÃªncias da SaÃºde</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2423"><a>Apoio ao Ensino</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2018"><a href="http://www.ufp.pt/universidade/servicos-academicos/gabinete-de-accao-social-escolar">Bolsas e Apoios</a></li>
+		<li id="menu-item-1452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1452"><a href="http://biblioteca.ufp.pt">Bibliotecas</a></li>
+		<li id="menu-item-16481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16481"><a href="http://www.ufp.pt/centro-de-recursos-laboratoriais-cerlab">CERLAB</a></li>
+		<li id="menu-item-17686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17686"><a href="http://www.ufp.pt/laboratorios-media">LaboratÃ³rios Media</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10131"><a href="#">TÃ­tulos</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10132"><a href="http://www.ufp.pt/ensino/titulo-de-agregado-pela-ufp">TÃ­tulo de Agregado</a></li>
+		<li id="menu-item-10133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10133"><a href="http://www.ufp.pt/ensino/titulo-de-especialista-pela-ufp">TÃ­tulo de Especialista</a></li>
+		<li id="menu-item-14878" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14878"><a href="http://www.ufp.pt/provas-de-apresentacao-discussao-e-defesas-publicas-de-casos-clinicos">Casos ClÃ­nicos Med. DentÃ¡ria</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1033" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1033"><a>InvestigaÃ§Ã£o</a>
+<ul class="sub-menu">
+	<li id="menu-item-1032" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1032"><a>I&#038;D</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2082"><a href="http://gadi.ufp.pt">Apoio Ã  InvestigaÃ§Ã£o</a></li>
+		<li id="menu-item-1280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1280"><a href="http://www.ufp.pt/investigacao/id/pos-doutoramentos">PÃ³s-Doutoramentos</a></li>
+		<li id="menu-item-8098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8098"><a href="http://gadi.ufp.pt/projectos-de-id/">Projectos</a></li>
+	</ul>
+</li>
+	<li id="menu-item-13691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13691"><a>ComissÃ£o de Ã‰tica</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13692"><a href="http://www.ufp.pt/investigacao/comissao-de-etica-ufp">ApresentaÃ§Ã£o</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1016" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1016"><a>FormaÃ§Ã£o</a>
+<ul class="sub-menu">
+	<li id="menu-item-2830" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2830"><a>FormaÃ§Ã£o ContÃ­nua</a>
+	<ul class="sub-menu">
+		<li id="menu-item-17416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17416"><a href="http://www.ufp.pt/apresentacao/es-cefoc">ES-CEFOC</a></li>
+		<li id="menu-item-16569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16569"><a href="http://www.ufp.pt/formacao-de-professores">FormaÃ§Ã£o de Professores</a></li>
+		<li id="menu-item-17918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17918"><a href="http://www.ufp.pt/formacaoprofissional">FormaÃ§Ã£o Profissional</a></li>
+	</ul>
+</li>
+	<li id="menu-item-14443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14443"><a>CTSP â€“ NÃ­vel 5</a>
+	<ul class="sub-menu">
+		<li id="menu-item-16399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16399"><a href="http://www.ufp.pt/curso-tecnico-superior-profissional-de-gerontologia-e-intervencao-comunitaria">Curso</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1474"><a>Outros</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2825"><a href="http://www.ufp.pt/comunidade/academia-cisco">Academia Cisco</a></li>
+		<li id="menu-item-2088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2088"><a href="http://www.ufp.pt/comunidade/academia-ufp">Academia UFP</a></li>
+		<li id="menu-item-10818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10818"><a href="http://www.ufp.pt/microsoft-dreamspark-premium">Microsoft DreamSpark Premium</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1017"><a>Comunidade</a>
+<ul class="sub-menu">
+	<li id="menu-item-1099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1099"><a>Estudantes</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1485"><a href="http://ae.ufp.pt/">AssociaÃ§Ã£o de Estudantes</a></li>
+		<li id="menu-item-2539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2539"><a href="http://www.ufp.pt/nucleos-de-estudantes">NÃºcleos de Estudantes</a></li>
+		<li id="menu-item-2795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2795"><a href="http://www.ufp.pt/tunas">Tunas AcadÃ©micas</a></li>
+		<li id="menu-item-1044" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1044"><a href="http://www.ufp.pt/comunidade/clube-ufp">Clube UFP</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1100"><a>ServiÃ§os</a>
+	<ul class="sub-menu">
+		<li id="menu-item-9335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9335"><a href="http://www.ufp.pt/ementa">AlimentaÃ§Ã£o</a></li>
+		<li id="menu-item-1042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1042"><a href="http://www.ufp.pt/comunidade/academia-saude-e-lazer">Academia de SaÃºde e Lazer</a></li>
+		<li id="menu-item-16287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16287"><a href="http://consultaviajante.ufp.edu.pt/">Consulta do Viajante</a></li>
+		<li id="menu-item-2897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2897"><a href="http://he.ufp.pt">Hospital-Escola</a></li>
+		<li id="menu-item-8519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8519"><a href="http://pessoainhas.ufp.pt">Pessoainhas &#8211; BerÃ§Ã¡rio e Creche</a></li>
+		<li id="menu-item-5259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5259"><a href="http://pasop.ufp.pt">PASOP</a></li>
+		<li id="menu-item-9944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9944"><a href="http://paas.ufp.pt">PAAS</a></li>
+		<li id="menu-item-1079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1079"><a href="http://www.ufp.pt/universidade/servicos-de-saude">SaÃºde &#8211; ClÃ­nicas PedagÃ³gicas</a></li>
+	</ul>
+</li>
+	<li id="menu-item-17400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17400"><a>Iniciativas</a>
+	<ul class="sub-menu">
+		<li id="menu-item-17405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17405"><a href="http://olimpiadas.ufp.edu.pt/">OlimpÃ­adas do Conhecimento</a></li>
+		<li id="menu-item-17406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17406"><a href="http://teen.ufp.pt/">UFP Teen</a></li>
+		<li id="menu-item-17407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17407"><a href="http://ufpkids.ufp.pt/">UFP Kids</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>		
+		</div>
+		</div>                
+     <!-- #MENU -->   
+  
+	<!-- #PROCURAR --> 
+     <div class="cabecalho-top"> 
+            <form method="get" class="searchform" action="http://www.ufp.pt/" >
+            <label>PROCURAR</label>
+        <input type="text" class="field s" name="s" value="" onFocus="if (this.value == 'Search') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Procurar...';}" />
+        <input type="image" src="/img/ico-search.png" alt="Search" class="submit" name="submit" />
+    </form>   
+    </div>
+    <!-- #PROCURAR --> 
+	</div>
+   	</div>
+<!-- /#header -->
+
+
+    <!-- #content Starts -->
+	    <div id="content" class="col-full magazine">
+    
+    	<div id="main-sidebar-container">
+			
+            <!-- #main Starts -->
+                        <div id="main">
+            	<!-- #MENU -->
+                
+				                
+                    
+                <!-- #MENU -->   
+            	   <div class="margem_slider">
+                   <!--Automatic Image Slider w/ CSS & jQuery with some customization--><script type="text/javascript">
+	$j2 = jQuery.noConflict();
+	$j2(document).ready(function() {$j2("#rps2 .paging").show();$j2("#rps2 .paging a:first").addClass("active");
+	
+	$j2("#rps2 .slide").css({"width" : 640});
+	$j2("#rps2 .window").css({"width" : 640});
+	$j2("#rps2 .window").css({"height" : 360});
+
+	$j2("#rps2 .col").css({"width" : 638});
+	$j2("#rps2 .col").css({"height" : 356});
+	$j2("#rps2 .col p.post-title span").css({"color" : "#666"});
+	$j2("#rps2 .post-date").css({"top" : 340});
+	$j2("#rps2 .post-date").css({"width" : 628});var imageWidth = $j2("#rps2 .window").width();
+	//var imageSum = $j2("#rps2 .slider div").size();
+	var imageReelWidth = imageWidth * 6;
+	
+	//Adjust the image reel to its new size
+	$j2("#rps2 .slider").css({"width" : imageReelWidth});
+
+	//Paging + Slider Function
+	rotate2 = function(){	
+		var triggerID = $active2.attr("rel") - 1; //Get number of times to slide
+		//alert(triggerID);
+		var sliderPosition = triggerID * imageWidth; //Determines the distance the image reel needs to slide
+
+		$j2("#rps2 .paging a").removeClass("active"); 
+		$active2.addClass("active");
+		
+		//Slider Animation
+		$j2("#rps2 .slider").stop(true,false).animate({ 
+			left: -sliderPosition
+		}, 500 );
+	}; 
+	var play;
+	//Rotation + Timing Event
+	rotate2Switch = function(){		
+		play = setInterval(function(){ //Set timer - this will repeat itself every 3 seconds
+			$active2 = $j2("#rps2 .paging a.active").next();
+			if ( $active2.length === 0) { //If paging reaches the end...
+				$active2 = $j2("#rps2 .paging a:first"); //go back to first
+			}
+			rotate2(); //Trigger the paging and slider function
+		}, 10000);
+	};
+	
+	rotate2Switch(); //Run function on launch
+	
+	//On Hover
+	$j2("#rps2 .slider a").hover(function() {
+		clearInterval(play); //Stop the rotation
+	}, function() {
+		rotate2Switch(); //Resume rotation
+	});	
+	
+	//On Click
+	$j2("#rps2 .paging a").click(function() {	
+		$active2 = $j2(this); //Activate the clicked paging
+		//Reset Timer
+		clearInterval(play); //Stop the rotation
+		rotate2(); //Trigger rotation immediately
+		rotate2Switch(); // Resume rotation
+		return false; //Prevent browser jump to link anchor
+	});	
+});
+
+</script><div id="rps2">
+            <div class="window">	
+                <div class="slider"><div class="slide"><div class="col"><p class="slider-content-img"><a href="http://ufp.pt"><center><img src="/docs/destaque-site-ufp-natal-2016.png" /></center></a></p></div><div class="clr"></div>
+				</div><div class="slide"><div class="col"><p class="slider-content-img"><a href="http://www.ufp.pt/estudar-na-ufp"><center><img src="/docs/EnUFP1.png" /></center></a></p></div><div class="clr"></div>
+				</div><div class="slide"><div class="col"><p class="slider-content-img"><a href="http://www.ufp.pt/frase2"><center><img src="/docs/640x360_frase3.png" /></center></a></p></div><div class="clr"></div>
+				</div><div class="slide"><div class="col"><p class="slider-content-img"><a href="http://www.ufp.pt/frase-3"><center><img src="/docs/640x360_frase1.png" /></center></a></p></div><div class="clr"></div>
+				</div><div class="slide"><div class="col"><p class="slider-content-img"><a href="http://candidaturas.ufp.pt/"><center><img src="/docs/CO1.png" /></center></a></p></div><div class="clr"></div>
+				</div><div class="slide"><div class="col"><p class="slider-content-img"><a href="http://www.ufp.pt/he"><center><img src="/docs/fotohe.png" /></center></a></p></div><div class="clr"></div>
+				</div>
+                </div>
+            </div>
+            <div class="paging"><a href="#" rel="1">1</a><a href="#" rel="2">2</a><a href="#" rel="3">3</a><a href="#" rel="4">4</a><a href="#" rel="5">5</a><a href="#" rel="6">6</a></div>
+        </div><div class="rps2-clr"></div>             	</div>
+                
+                    
+               
+				  
+                
+            </div><!-- /#main -->
+            
+            
+            
+ 	
+  
+    
+       <div id="page-wrap">
+	     
+    		 <div id="op1"><div class="tituloop">UFP TV</div>
+                 <div class="textoop">
+                    O LaboratÃ³rio de TelevisÃ£o funciona como um centro de produÃ§Ã£o de vÃ­deo para apoio Ã s actividades da Universidade.</div> 
+                    <div class="imgop"><a href="http://streaming.ufp.pt/smoothstreamingplayer.html" target="_blank"><img src="/img/player.png" alt="Ver streaming" hspace="8" vspace="4" border="0" align="left"  /></a><a href="http://www.youtube.com/user/Oficinatv"><img src="/img/galeriavideos.png" style="padding-left:10px;" alt="Ver Galeria de VÃ­deos" hspace="8" vspace="4" border="0" align="left"  /></a></div>
+  <div class="fechar1"><div class="fechar"><img src="/img/fecharbranco.png" width="46" height="14" /></div></div>
+             </div>
+  <div id="op2"><div class="tituloop">Secretaria Virtual</div>
+            
+           
+             <form class="formulario" name="aspnetForm" method="post" action="https://portal.ufp.pt/vpa.aspx" target="_blank"  id="aspnetForm" onsubmit="$('.fechar1').click()">
+                 <label class="label-texto-esq">UTILIZADOR:</label>
+               <input class="caixa-texto-esq"  id="login" name="login" type="text" size="20" />
+                 <label class="label-texto-dir">SENHA:</label>
+               <input class="caixa-texto-dir"  id="Password" name="Password" type="password" size="20" />
+               <input class="botao" name="Validar" type="submit" value="LIGAR" />
+            </form> 
+    <div class="texto-menu">
+    <a href="http://www.ufp.pt/a-secretaria-virtual" target="_blank"><img style="width:15px;height:15px;vertical-align:middle" src="/img/interroga.png" alt="Sobre a Secretaria Virtual" >Sobre a Secretaria Virtual.</a></div>
+      
+      <div class="fechar"> <img src="/img/fechar.png" width="46" height="14" /></div>
+      
+    </div>
+             <div id="op3"><div class="tituloop">E-Learning</div>
+             
+             
+              <form class="formulario" id="loginForm" method="post" action="https://elearning.ufp.pt/portal/xlogin" target="_blank" enctype="application/x-www-form-urlencoded">
+							<label class="label-texto-esq"  for="eid">UTILIZADOR:</label>
+							<input class="caixa-texto-esq" name="eid" id="eid" type="text"  size="25" />
+							<label class="label-texto-dir" for="pw">SENHA:</label>
+							<input class="caixa-texto-dir"  name="pw" type="password" id="pw"  size="25" />
+							<input  class="botao"  name="submit" type="submit" id="submit" value="LIGAR" />
+							
+						</form>
+                         <div class="texto-menu"><a target="_blank"  href="http://www.ufpuv.com/"><img style="vertical-align:middle"  src="/docs/ufpuv.png" alt="UFP-Universidade Virtual" ></a></div>
+       
+               <div class="fechar"> <img src="/img/fechar.png" width="46" height="14" /></div>
+             </div>
+             <div id="op4"><div class="tituloop">Biblioteca</div>
+             
+             <div class="textoop">
+                    As Bibliotecas da UFP tÃªm como missÃ£o permitir o acesso aos recursos informativos necessÃ¡rios ao desempenho das funÃ§Ãµes de ensino, investigaÃ§Ã£o e aprendizagem, bem como conservar e preservar as suas colecÃ§Ãµes.</div> 
+                    <div class="imgop"><a href="http://biblioteca.ufp.pt" target="_blank"><img src="/docs/biblio.png" alt="Ver streaming" hspace="8" vspace="4" border="0" align="left"  /></a></div>
+         <div class="fechar"> <img src="/img/fechar.png" width="46" height="14" /></div>
+       </div>
+             <div id="op5"><div class="tituloop">Webmail</div>
+             <div class="textoop">
+                     Acesso ao Webmail da Universidade Fernando Pessoa.<br />
+                	A UFP utiliza a plataforma/serviÃ§os gmail para fornecimento de serviÃ§os de correio electrÃ³nico.</div> 
+                    <div class="imgop"><a href="http://webmail.ufp.edu.pt/" target="_blank"><img src="/img/webmail.png" alt="Aceder ao webmail" hspace="8" vspace="4" border="0" align="left"  /></a></div>
+                     <div class="fechar"> <img src="/img/fechar.png" width="46" height="14" /></div>
+     </div> 
+  </div>    
+  
+</div><!-- /#main-sidebar-container -->         
+
+  
+
+<!-- ########################  -->     
+<!-- ## NOTICIAS          ##  -->   
+<!-- ########################  -->      
+
+
+
+	<div id="noticiasx">
+        <div class="cabecalho">
+            <a href="http://www.ufp.pt/category/destaques"><div class="lattext1">DESTAQUES</div></a>
+            <a href="http://www.ufp.pt/category/noticias"><div class="lattext2">NOT&Iacute;CIAS</div></a>
+            <a href="http://www.ufp.pt/category/eventos"><div class="lattext3">EVENTOS</div></a>
+        </div>
+       
+        <div class="margem_branca1">
+        
+                    <!--Automatic Image Slider w/ CSS & jQuery with some customization--><script type="text/javascript">
+	$j = jQuery.noConflict();
+	$j(document).ready(function() {$j("#rps .paging a:first").addClass("active");
+	
+	$j(".slidex").css({"width" : 298});
+	$j("#rps .window").css({"width" : 298});
+	$j("#rps .window").css({"height" : 187});
+
+	$j("#rps .col").css({"width" : 296});
+	$j("#rps .col").css({"height" : 183});
+	$j("#rps .col p.post-title span").css({"color" : "#666"});
+	$j("#rps .post-date").css({"top" : 167});
+	$j("#rps .post-date").css({"width" : 286});var imageWidth = $j("#rps .window").width();
+	//var imageSum = $j("#rps .sliderx div").size();
+	var imageReelWidth = imageWidth * 4;
+	
+	//Adjust the image reel to its new size
+	$j("#rps .sliderx").css({"width" : imageReelWidth});
+
+	//Paging + Slider Function
+	rotate = function(){	
+		var triggerID = $active.attr("rel") - 1; //Get number of times to slide
+		//alert(triggerID);
+		var sliderPosition = triggerID * imageWidth; //Determines the distance the image reel needs to slide
+
+		$j("#rps .paging a").removeClass("active"); 
+		$active.addClass("active");
+		
+		//Slider Animation
+		$j("#rps .sliderx").stop(true,false).animate({ 
+			left: -sliderPosition
+		}, 500 );
+	}; 
+	var play;
+	//Rotation + Timing Event
+	rotateSwitch = function(){		
+		play = setInterval(function(){ //Set timer - this will repeat itself every 3 seconds
+			$active = $j("#rps .paging a.active").next();
+			if ( $active.length === 0) { //If paging reaches the end...
+				$active = $j("#rps .paging a:first"); //go back to first
+			}
+			rotate(); //Trigger the paging and slider function
+		}, 4000);
+	};
+	
+	rotateSwitch(); //Run function on launch
+	
+	//On Hover
+	$j("#rps .sliderx a").hover(function() {
+		clearInterval(play); //Stop the rotation
+	}, function() {
+		rotateSwitch(); //Resume rotation
+	});	
+	
+	//On Click
+	$j("#rps .paging a").click(function() {	
+		$active = $j(this); //Activate the clicked paging
+		//Reset Timer
+		clearInterval(play); //Stop the rotation
+		rotate(); //Trigger rotation immediately
+		rotateSwitch(); // Resume rotation
+		return false; //Prevent browser jump to link anchor
+	});	
+});
+
+</script><div id="rps">
+            <div class="window">	
+                <div class="sliderx"><div class="slidex"><div class="col"><a href="http://www.ufp.pt/mba-curso-avancado-de-gestao-de-organizacoes-e-servicos-da-saude"><img style="border:0" src="/docs/298x187_mba.png" align="left" width=298 height=187 /></a></div><div class="clr"></div>
+				</div><div class="slidex"><div class="col"><a href="http://1coloquiogestaodeconflitos.ufp.edu.pt"><img style="border:0" src="/docs/destaque_1CGC1.png" align="left" width=298 height=187 /></a></div><div class="clr"></div>
+				</div><div class="slidex"><div class="col"><a href="http://coloquio-internacional-opvc.ufp.edu.pt/"><img style="border:0" src="/docs/destaqueVCeD.jpg" align="left" width=298 height=187 /></a></div><div class="clr"></div>
+				</div><div class="slidex"><div class="col"><a href="https://conference.eliterature.org//"><img style="border:0" src="/docs/banner2016.png" align="left" width=298 height=187 /></a></div><div class="clr"></div>
+				</div>
+                </div>
+            </div>
+            <div class="paging"><a href="#" rel="1">&nbsp;</a><a href="#" rel="2">&nbsp;</a><a href="#" rel="3">&nbsp;</a><a href="#" rel="4">&nbsp;</a></div>
+        </div><div class="rps-clr"></div>          <!--  <a href="http://www.ufp.pt/category/noticias"><div class="maisnoticias">+ NotÃ­cias</div></a><a href="http://www.ufp.pt/category/eventos"><div class="maiseventos">+ Eventos</div></a> -->
+        </div>
+        
+    </div>
+    
+    
+    	
+    </div><!-- /#content -->
+
+	
+		
+
+	<div id="footer-widgets" class="col-full col-5">
+
+	
+
+					
+
+			
+		
+
+	    	<div id="anspace-widget-6" class="widget anspace-widget"><a href="#"><img src="http://www.ufp.pt/docs/label_ufp.png" alt="" /></a></div>    
+
+		
+	        
+					
+
+			
+		
+
+	    	<div id="anspace-widget-5" class="widget anspace-widget"><a href="http://he.ufp.pt"><img src="http://www.ufp.pt/docs/logohe.png" alt="HE-UFP Hospital-Escola Universidade Fernando Pessoa" /></a></div>    
+
+		
+	        
+					
+
+			
+		
+
+	    	<div id="anspace-widget-4" class="widget anspace-widget"><a href="http://ri.ufp.pt/"><img src="http://www.ufp.pt/docs/GRI.jpg" alt="Gabinete de RelaÃ§Ãµes Internacionais" /></a></div>    
+
+		
+	        
+					
+
+			
+		
+
+	    	<div id="anspace-widget-3" class="widget anspace-widget"><a href="http://edicoes.ufp.pt"><img src="http://www.ufp.pt/docs/imagemedicoesufp.jpg" alt="EdiÃ§Ãµes UFP" /></a></div>    
+
+		
+	        
+					
+
+			
+		
+
+	    	<div id="anspace-widget-2" class="widget anspace-widget"><a href="http://www.ufp.pt/ano-zero"><img src="http://www.ufp.pt/docs/anozero2.jpg" alt="Ano Zero" /></a></div>    
+
+		
+	        
+		
+	    		        
+
+		<div class="fix"></div>
+
+	
+
+	</div><!--/#footer-widgets-->
+
+<!--  fix para sobreposição dos videos do youtube   -->
+<script>
+
+$("iframe").each(function(){
+      var ifr_source = $(this).attr('src');
+      var wmode = "?wmode=transparent";
+      $(this).attr('src',ifr_source+wmode);
+});
+</script>
+
+	<div id="footer" class="col-full" style="padding-top: 3px; padding-bottom: 3px;">
+
+		    
+
+		<div id="copyright" class="col-left">
+			<div class="ajustetopo">
+			<p><p>Â© 2014 Universidade Fernando Pessoa. Todos os direitos reservados.</p></p>            </div>
+		</div>
+
+		<div id="credit" class="col-right">
+			<p><p></p></p>            <div id="facebook_like_button_holder">
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/gciufp&amp;layout=button_count&amp;show_faces=false&amp;width=600&amp;action=like&amp;colorscheme=light&amp;height=16" scrolling="no" style="border:none; overflow:hidden;" allowTransparency="true"></iframe>
+            </div>
+            <div id="social_fb">
+			<a href="https://www.facebook.com/universidadefernandopessoa" target="_blank">
+				<img src="/docs/social_facebook.gif" alt="Share On Facebook" />
+			</a>
+            </div>
+            <div id="social_tw">
+            <a href="https://twitter.com/UFPGCI" target="_blank">
+				<img src="/docs/social_twitter.gif" alt="Share On Twitter" />
+			</a>
+            </div>
+            <div id="social_ld">
+            <a href="http://www.youtube.com/user/Oficinatv" target="_blank">
+				<img src="/docs/social_youtube.png" alt="Share On Youtube" />
+			</a>  
+            </div>
+            <div id="social_pr">      
+            <a href="http://www.pinterest.com/labfotografia/" target="_blank">
+				<img src="/docs/social_pinterest.png" alt="Share On Pinterest" />
+			</a>     
+            </div>
+           
+		</div>
+    </div>	
+	    
+
+	</div><!-- /#wrapper -->
+
+	<div class="fix"></div><!--/.fix-->
+
+
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28415780-1']);
+  _gaq.push(['_setDomainName', 'ufp.pt']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+			<script type="text/javascript">
+				jQuery(document).ready(function($) {
+					jQuery('#dc_jqmegamenu_widget-2-item .menu').dcMegaMenu({
+						rowItems: 3,
+						subMenuWidth: '',
+						speed: 'fast',
+						effect: 'slide',
+						event: 'hover'
+						,fullWidth: true					});
+				});
+			</script>
+		
+			<script type='text/javascript' src='http://www.ufp.pt/wp-content/plugins/woocommerce/assets/js/woocommerce_plugins.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"countries":"{\"AU\":{\"ACT\":\"Australian Capital Territory\",\"NSW\":\"New South Wales\",\"NT\":\"Northern Territory\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"BR\":{\"AM\":\"Amazonas\",\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\u00e1\",\"CE\":\"Cear\u00e1\",\"DF\":\"Distrito federal\",\"ES\":\"Espirito santo\",\"MA\":\"Maranh\u00e3o\",\"PR\":\"Paran\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\u00ed\",\"RN\":\"Rio grande do norte\",\"RS\":\"Rio grande do sul\",\"RO\":\"Rond\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa catarina\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\",\"PA\":\"Par\u00e1\",\"BH\":\"Bahia\",\"GO\":\"Goi\u00e1s\",\"MT\":\"Mato grosso\",\"MS\":\"Mato grosso do sul\",\"RJ\":\"Rio de janeiro\",\"SP\":\"S\u00e3o paulo\",\"MG\":\"Minas gerais\",\"PB\":\"Paraiba\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"British Columbia\",\"MB\":\"Manitoba\",\"NB\":\"New Brunswick\",\"NF\":\"Newfoundland\",\"NT\":\"Northwest Territories\",\"NS\":\"Nova Scotia\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"Prince Edward Island\",\"PQ\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon Territory\"},\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\"},\"USAF\":{\"AA\":\"Americas\",\"AE\":\"Europe\",\"AP\":\"Pacific\"}}","select_state_text":"Select a state\u2026","state_text":"state","plugin_url":"http:\/\/www.ufp.pt\/wp-content\/plugins\/woocommerce","ajax_url":"http:\/\/www.ufp.pt\/wp-admin\/admin-ajax.php","get_variation_nonce":"bca33e12c2","add_to_cart_nonce":"4e7a10d5d3","update_order_review_nonce":"25b780dac9","update_shipping_method_nonce":"45943e899b","option_guest_checkout":"yes","checkout_url":"http:\/\/www.ufp.pt\/wp-admin\/admin-ajax.php?action=woocommerce-checkout","option_ajax_add_to_cart":"yes","is_checkout":"0","is_pay_page":"0","is_cart":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/plugins/woocommerce/assets/js/woocommerce.min.js'></script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/plugins/woocommerce/assets/js/fancybox.min.js'></script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/plugins/woocommerce/assets/js/jquery-ui.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_price_slider_params = {"currency_symbol":"\u20ac","currency_pos":"left"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/plugins/woocommerce/assets/js/price_slider.min.js'></script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/plugins/contact-form-7/includes/js/jquery.form.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.ufp.pt\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Enviando..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ufp.pt/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+
+	
+
+
+	</body>
+
+</html>

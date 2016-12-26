@@ -1,0 +1,8 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\MyClient\MyClient\bin\Debug\MyClient.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\MyClient\MyClient\bin\Debug\MyClient.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\MyClient\MyClient\bin\Debug\MyCodeLibrary.dll
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\MyClient\MyClient\bin\Debug\MyCodeLibrary.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\MyClient\MyClient\obj\Debug\MyClient.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\MyClient\MyClient\obj\Debug\MyClient.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\MyClient\MyClient\MyClient\obj\Debug\MyClient.pdb

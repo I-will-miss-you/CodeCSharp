@@ -1,0 +1,14 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\bin\Debug\WPFEvents.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\obj\Debug\MainWindow.g.cs
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\obj\Debug\App.g.cs
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\obj\Debug\WPFEvents_MarkupCompile.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\obj\Debug\WPFEvents_MarkupCompile.lref
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\obj\Debug\MainWindow.baml
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\obj\Debug\WPFEvents.g.resources
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\obj\Debug\WPFEvents.Properties.Resources.resources
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csproj.GenerateResource.Cache
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\obj\Debug\WPFEvents.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_23\WPFEvents\WPFEvents\obj\Debug\WPFEvents.pdb

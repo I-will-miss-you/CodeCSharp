@@ -1,0 +1,7 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\OpsExpsStats\OpsExpsStats\bin\Debug\OpsExpsStats.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_07\OpsExpsStats\OpsExpsStats\bin\Debug\OpsExpsStats.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_07\OpsExpsStats\OpsExpsStats\bin\Debug\OpsExpsStats.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_07\OpsExpsStats\OpsExpsStats\bin\Debug\OpsExpsStats.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_07\OpsExpsStats\OpsExpsStats\obj\Debug\OpsExpsStats.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_07\OpsExpsStats\OpsExpsStats\obj\Debug\OpsExpsStats.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_07\OpsExpsStats\OpsExpsStats\obj\Debug\OpsExpsStats.pdb

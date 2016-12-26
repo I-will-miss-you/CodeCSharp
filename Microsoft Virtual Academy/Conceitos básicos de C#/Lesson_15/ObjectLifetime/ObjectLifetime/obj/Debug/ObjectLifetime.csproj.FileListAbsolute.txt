@@ -1,0 +1,6 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.pdb

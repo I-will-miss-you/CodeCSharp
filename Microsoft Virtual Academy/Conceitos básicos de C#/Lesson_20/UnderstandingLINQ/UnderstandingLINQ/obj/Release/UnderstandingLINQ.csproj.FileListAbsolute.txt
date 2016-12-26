@@ -1,0 +1,5 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_20\UnderstandingLINQ\UnderstandingLINQ\bin\Release\UnderstandingLINQ.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_20\UnderstandingLINQ\UnderstandingLINQ\bin\Release\UnderstandingLINQ.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_20\UnderstandingLINQ\UnderstandingLINQ\bin\Release\UnderstandingLINQ.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_20\UnderstandingLINQ\UnderstandingLINQ\obj\Release\UnderstandingLINQ.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\Microsoft Virtual Academy\Conceitos básicos de C#\Lesson_20\UnderstandingLINQ\UnderstandingLINQ\obj\Release\UnderstandingLINQ.pdb
