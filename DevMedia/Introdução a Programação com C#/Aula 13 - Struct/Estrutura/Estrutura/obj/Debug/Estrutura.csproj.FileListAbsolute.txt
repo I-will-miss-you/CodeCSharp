@@ -1,0 +1,7 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 12 - For\Estrutura\Estrutura\bin\Debug\Estrutura.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 13 - Struct\Estrutura\Estrutura\bin\Debug\Estrutura.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 13 - Struct\Estrutura\Estrutura\bin\Debug\Estrutura.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 13 - Struct\Estrutura\Estrutura\bin\Debug\Estrutura.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 13 - Struct\Estrutura\Estrutura\obj\Debug\Estrutura.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 13 - Struct\Estrutura\Estrutura\obj\Debug\Estrutura.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 13 - Struct\Estrutura\Estrutura\obj\Debug\Estrutura.pdb

@@ -1,0 +1,6 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 05 - Boxing e Unboxing\BoxingeUnboxing\BoxingeUnboxing\bin\Debug\BoxingeUnboxing.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 05 - Boxing e Unboxing\BoxingeUnboxing\BoxingeUnboxing\bin\Debug\BoxingeUnboxing.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 05 - Boxing e Unboxing\BoxingeUnboxing\BoxingeUnboxing\bin\Debug\BoxingeUnboxing.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 05 - Boxing e Unboxing\BoxingeUnboxing\BoxingeUnboxing\obj\Debug\BoxingeUnboxing.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 05 - Boxing e Unboxing\BoxingeUnboxing\BoxingeUnboxing\obj\Debug\BoxingeUnboxing.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 05 - Boxing e Unboxing\BoxingeUnboxing\BoxingeUnboxing\obj\Debug\BoxingeUnboxing.pdb

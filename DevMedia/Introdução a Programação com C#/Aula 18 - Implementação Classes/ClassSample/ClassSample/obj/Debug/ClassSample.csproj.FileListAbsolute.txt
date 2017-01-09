@@ -1,0 +1,6 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 18 - Implementação Classes\ClassSample\ClassSample\bin\Debug\ClassSample.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 18 - Implementação Classes\ClassSample\ClassSample\bin\Debug\ClassSample.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 18 - Implementação Classes\ClassSample\ClassSample\bin\Debug\ClassSample.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 18 - Implementação Classes\ClassSample\ClassSample\obj\Debug\ClassSample.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 18 - Implementação Classes\ClassSample\ClassSample\obj\Debug\ClassSample.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 18 - Implementação Classes\ClassSample\ClassSample\obj\Debug\ClassSample.pdb

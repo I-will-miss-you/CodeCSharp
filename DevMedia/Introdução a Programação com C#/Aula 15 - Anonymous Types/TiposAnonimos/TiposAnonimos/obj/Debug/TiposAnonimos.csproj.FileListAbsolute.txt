@@ -1,0 +1,6 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 15 - Anonymous Types\TiposAnonimos\TiposAnonimos\bin\Debug\TiposAnonimos.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 15 - Anonymous Types\TiposAnonimos\TiposAnonimos\bin\Debug\TiposAnonimos.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 15 - Anonymous Types\TiposAnonimos\TiposAnonimos\bin\Debug\TiposAnonimos.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 15 - Anonymous Types\TiposAnonimos\TiposAnonimos\obj\Debug\TiposAnonimos.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 15 - Anonymous Types\TiposAnonimos\TiposAnonimos\obj\Debug\TiposAnonimos.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 15 - Anonymous Types\TiposAnonimos\TiposAnonimos\obj\Debug\TiposAnonimos.pdb

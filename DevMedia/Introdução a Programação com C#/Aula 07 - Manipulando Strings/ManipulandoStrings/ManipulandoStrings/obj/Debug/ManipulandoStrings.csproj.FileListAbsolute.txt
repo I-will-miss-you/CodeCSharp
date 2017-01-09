@@ -1,0 +1,6 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 07 - Manipulando Strings\ManipulandoStrings\ManipulandoStrings\bin\Debug\ManipulandoStrings.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 07 - Manipulando Strings\ManipulandoStrings\ManipulandoStrings\bin\Debug\ManipulandoStrings.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 07 - Manipulando Strings\ManipulandoStrings\ManipulandoStrings\bin\Debug\ManipulandoStrings.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 07 - Manipulando Strings\ManipulandoStrings\ManipulandoStrings\obj\Debug\ManipulandoStrings.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 07 - Manipulando Strings\ManipulandoStrings\ManipulandoStrings\obj\Debug\ManipulandoStrings.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 07 - Manipulando Strings\ManipulandoStrings\ManipulandoStrings\obj\Debug\ManipulandoStrings.pdb

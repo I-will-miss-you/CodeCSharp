@@ -1,0 +1,6 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 17 - Exemplificando Operadores\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 17 - Exemplificando Operadores\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 17 - Exemplificando Operadores\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 17 - Exemplificando Operadores\Operadores\Operadores\obj\Debug\Operadores.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 17 - Exemplificando Operadores\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 17 - Exemplificando Operadores\Operadores\Operadores\obj\Debug\Operadores.pdb

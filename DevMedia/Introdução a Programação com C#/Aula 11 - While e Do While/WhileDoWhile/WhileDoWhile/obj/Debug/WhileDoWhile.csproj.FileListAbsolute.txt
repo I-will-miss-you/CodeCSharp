@@ -1,0 +1,6 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 11 - While e Do While\WhileDoWhile\WhileDoWhile\bin\Debug\WhileDoWhile.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 11 - While e Do While\WhileDoWhile\WhileDoWhile\bin\Debug\WhileDoWhile.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 11 - While e Do While\WhileDoWhile\WhileDoWhile\bin\Debug\WhileDoWhile.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 11 - While e Do While\WhileDoWhile\WhileDoWhile\obj\Debug\WhileDoWhile.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 11 - While e Do While\WhileDoWhile\WhileDoWhile\obj\Debug\WhileDoWhile.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 11 - While e Do While\WhileDoWhile\WhileDoWhile\obj\Debug\WhileDoWhile.pdb

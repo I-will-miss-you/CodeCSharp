@@ -1,0 +1,6 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 03 - Variaveis\ValueTypes\ValueTypes\bin\Debug\ValueTypes.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 03 - Variaveis\ValueTypes\ValueTypes\bin\Debug\ValueTypes.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 03 - Variaveis\ValueTypes\ValueTypes\bin\Debug\ValueTypes.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 03 - Variaveis\ValueTypes\ValueTypes\obj\Debug\ValueTypes.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 03 - Variaveis\ValueTypes\ValueTypes\obj\Debug\ValueTypes.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 03 - Variaveis\ValueTypes\ValueTypes\obj\Debug\ValueTypes.pdb

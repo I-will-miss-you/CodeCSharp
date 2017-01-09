@@ -1,0 +1,6 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula08 - If e Else\IfElse\IfElse\bin\Debug\IfElse.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula08 - If e Else\IfElse\IfElse\bin\Debug\IfElse.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula08 - If e Else\IfElse\IfElse\bin\Debug\IfElse.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula08 - If e Else\IfElse\IfElse\obj\Debug\IfElse.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula08 - If e Else\IfElse\IfElse\obj\Debug\IfElse.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula08 - If e Else\IfElse\IfElse\obj\Debug\IfElse.pdb

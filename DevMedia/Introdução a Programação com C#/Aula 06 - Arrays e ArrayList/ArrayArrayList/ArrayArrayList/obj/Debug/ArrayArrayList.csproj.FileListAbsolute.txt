@@ -1,0 +1,6 @@
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 06 - Arrays e ArrayList\ArrayArrayList\ArrayArrayList\bin\Debug\ArrayArrayList.exe.config
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 06 - Arrays e ArrayList\ArrayArrayList\ArrayArrayList\bin\Debug\ArrayArrayList.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 06 - Arrays e ArrayList\ArrayArrayList\ArrayArrayList\bin\Debug\ArrayArrayList.pdb
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 06 - Arrays e ArrayList\ArrayArrayList\ArrayArrayList\obj\Debug\ArrayArrayList.csprojResolveAssemblyReference.cache
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 06 - Arrays e ArrayList\ArrayArrayList\ArrayArrayList\obj\Debug\ArrayArrayList.exe
+C:\Users\fonse\Documents\GitHub\CodeC#\DevMedia\Introdução a Programação com C#\Aula 06 - Arrays e ArrayList\ArrayArrayList\ArrayArrayList\obj\Debug\ArrayArrayList.pdb

@@ -1,0 +1,114 @@
+DevMedia
+	Curso: Introdução a programação com C#
+
+Carga Horária: 
+21 horas*
+*Para obter a contagem de carga horária do curso levamos em consideração que cada aula possui, em média, a duração técnica de uma hora - que contém o tempo de acompanhamento, codificação, assimilação do aluno além do próprio tempo total do vídeo.
+
+Este curso possui o objetivo de capacitar desenvolvedores em linguagem C#. Através da exemplificação das rotinas mais básicas da linguagem e sua sintaxe. O escopo deste curso privilegia o estudo da sintaxe básica de uma aplicação C# e dos tipos envolvidos (variáveis) do escopo. Também são estudados os statements básicos da linguagem e operadores aritméticos. Este curso tem como publico alvo quem não possui conhecimento em programação e deseja aprender utilizando o C#. 
+
+
+Aulas:
+
+1) Introdução:
+ a)Introdução :
+ Tempo: 17:02 min	
+Mini Resumo: Nessa videoaula iniciaremos o Curso básico de C#, apresentando a linguagem de programação, seu histórico, suas características e faremos uma primeira incursão na ferramenta Visual Studio 2012, onde estudamos os tipos de projetos disponíveis pela ferramenta e as caracteristicas que envolvem cada um deles. Criamos o primeiro projeto do tipo Console Application e estudamos suas características.
+
+ b) Hello World
+ Tempo: 16:08 min
+Mini Resumo: Nessa videoaula iremos gerar nossa primeira compilação, através da criação de um Hello World. Estudamos as principais características que envolvem a criação deste aplicativo, propriedades de cada um dos arquivos gerados pela solução e formas de execução da solução. Validamos os arquivos gerados pela compilação, criamos breakpoints e demonstramos o funcionamento do debugging na feramenta
+
+2) Types
+ a) Variáveis
+ Tempo: 17:15 min
+Mini Resumo: Nessa videoaula iniciamos o estudo nos tipos de valor (Value Types), também chamados de variáveis. Através da exemplificação em uma solução modelo, demonstrando e comparando os tipos de variáveis disponíveis, sua sintaxe de declaração e formas de utilização. Utilizamos a documentação oficial da Microsoft como guia para obtenção dos limites possíveis nas variáveis definidas. 
+Documentação: https://msdn.microsoft.com/en-us/library/s1ax56ch.aspx
+
+ b) Variáveis e Conversões
+ Tempo: 16:21 min
+Mini Resumo: Nessa videoaula continuamos com o estudo das variáveis (Value Type), exemplificando os tipos possíveis e suas declarações. Demonstramos a estrutura do tipo enum, suas declarações e a obtenção dos valores possíveis. Após, estudamos os tipos de conversões possíveis, dentro do escopo do C#, conversão implícita, conversão explícita e demais conversões possíveis. 
+Documentação: 
+Implicit Numeric Conversions Table: https://msdn.microsoft.com/en-us/library/y5b434w4.aspx
+Explicit Numeric Conversions Table: https://msdn.microsoft.com/en-us/library/yht2cx7b.aspx
+Convert: https://msdn.microsoft.com/en-us/library/system.convert(v=vs.110).aspx
+
+ c) Boxing e Unboxing
+ Tempo: 15:28 min
+Descrição: Nessa videoaula trabalhamos com os conceitos de Boxing e Unboxing, onde colocamos dentro do conteúdo de estudo o conceito object, também representado por System.Object. Ao trabalharmos com estas informações deparamos com o recurso System.Type, utilizado para definição dos tipos utilizados pelo sistema.
+Ver:
+Object: https://msdn.microsoft.com/en-us/library/9kkx3h3c.as
+Type: https://msdn.microsoft.com/en-us/library/system.type(v=vs.110).aspx
+
+ d) Arrays e ArrayList
+ Tempo: 15:28 min
+Descrição: Nessa videoaula estudamos os tipos de Arrays, estruturas de armazenamento de valores múltiplos, além dos ArrayLists, explicando as diferenças entre eles. Ainda, ao tratar de Arays, demonstramos diversos tipos de declaração destes recursos e as formas de atribuição e retorno destes valores.
+
+ e) Manipulando Strings
+ Tempo: 15:28 min
+Descrição: Nessa videoaula trabalhamos com a declaração de strings, referentes ao recurso do framework localizado no assembly System.String, e disponibilizado para recursos diversos. Através da exemplificação de diversos métodos para manutenção dos valores, demonstramos os principais recursos ao trabalhar com strings. Ainda, utilizamos o StringBuilder como recurso alternativo para esta manutenção.
+
+3)Comandos de Seleção
+ a) If e else
+ Tempo: 15:22 min
+Descrição: Nessa videoaula trabalhamos com o primeiro statement (comando) de seleção. Através dos comandos If e Else, aprendemos a criar validações condicionais para o código, influenciando diretamente a execução das rotinas. Ainda, estudamos formas alternativas para organização do código, como o comando region e comentários em códigos.
+
+ b) Switch e Break
+ Tempo: 15:23 min
+Descrição: Nessa videoaula trabalhamos com outro statement (comando) de seleção. O comando switch serve como alternativa para a inclusão de validadores aninhados, sendo que são demonstrados em exemplo prático quanto à sua utilização. Ainda, estudamos sintaxe diferenciada para atribuição de valores condicionadas à regras customizadas, ou seja, demonstramos outra sintaxe alternativa para o if..else 
+
+4) Comandos de Iteração
+ a) Generics
+ Tempo: 14:50 min
+Descrição: Nessa videoaula temos nosso primeiro contato com os Generics (Genéricos) do C#. Através da utilização da classe List, criamos nossos primeiros exemplos utilizando este recurso. Para complementar a aula, posteriormente realizamos uma comparação com a classe ArrayList, pontuando as principais semelhanças e diferenças entre a utilização de cada um dos recursos de lista existentes e preparando para a utilização juntamente com o próximo recurso a ser estudado, os comandos de iteração. 
+Documentação: https://msdn.microsoft.com/en-us/library/512aeb7t.aspx
+
+ b) "Do While"
+ Tempo: 15:31 min
+Descrição: Nessa videoaula trabalhamos com os statements (comandos) de iteração do e while. primeiramente realizamos a exemplificação dos comandos do e while utilizados em conjunto, onde a iteração possui escopo de executar o bloco de código antes de realizar a validação da condição básica. Posteriormente, o comando while, quando utilizado de maneira única, possui o escopo de validação da condição antes da execução do código do bloco referido. 
+
+ c) For
+ Tempo: 14:58 min
+Descrição: Nessa videoaula trabalhamos com o statement (comando) de iteração for. Através do entendimento da estrutura envolvida no comando, montamos o escopo de utilização do mesmo, procurando evidenciar e demonstrar diversas formas possíveis de execução para o loop. Dentro do escopo, demonstramos o uso incremental, decremental, além de mostrar formas alternativas de declaração da variável de iteração.
+
+ d) Struct
+ Tempo: 16:03 min
+Descrição: Nessa videoaula trabalhamos com a declaração de struct. Esta estrutura serve como referência primária para nosso estudo posterior em orientação a objetos. Através da exemplificação da estrutura (struct) e a declaração dos tipos instanciados conseguimos demonstrar uma forma prática de representar os objetos desejados
+Documentação: https://msdn.microsoft.com/en-us/library/ah19swz4.aspx
+
+ e) Foreach
+ Tempo: 15:56 min
+Descrição: Nessa videoaula trabalhamos com a instrução foreach. Através da estrutura (struct) estudada na última aula, inserimos tais dados dentro de uma estrutura de lista (ArrayList) e utilizamos o foreach para gerar a iteração com a mesma. Por fim, estudamos uma forma mais segura de armazenar os dados, através de uma lista genérica List
+
+ f) Anonymous Types
+ Tempo: 15:56 min
+Descrição: Nessa videoaula estudamos os Anonymous Types. Através da declaração do tipo var, criamos um tipo anônimo e determinamos valores para estes tipos. A seguir, realizamos iteração para a obtenção dos valores dentro de uma coleção Array. Por fim, estudamos os Nullable types com o intuito de demonstrar que tipos como int podem ser anuláveis.
+
+5) Operadores
+ a) Operadores aritméticos e lógicos
+ Tempo: 17:19 min
+Descrição: Nessa videoaula trabalhamos com os operadores da linguagem C Sharp (C#). Através do estudo dos operadores aritméticos e lógicos, propomos e descrevemos a sintaxe de uso dos mesmos dentro de um conceito de utilização prática. Os operadores são analisados e declarados. 
+
+ b) Exemplificando Operadores
+ Tempo: 15:43 min
+Descrição: Nessa videoaula criamos um exemplo prático para o uso de operadores. Com o objetivo de demonstrar de maneira prática o uso destes recursos, realizamos a criação de um aplicativo console application demonstrando algumas técnicas para a boa utilização destes operadores. 
+
+6) Classes em C#
+ a) Implementação Classes
+ Tempo: 15:14 min
+Descrição: Nessa videoaula criamos o primeiro exemplo de classes para C#. Neste contexto, estudamos a instância da classe criada identificando como uma característica da orientação a objetos. Reforçando o conceito, implementamos construtores e destrutores para identificar o ciclo de vida da classe. 
+
+ b) Propriedades (Properties) e Campos (Fields)
+ Tempo: 16:04 min
+Descrição: Nessa videoaula utilizamos o exemplo de classe criado para aprendermos mais um conceito sobre as classes em C#: As Propriedades (Properties) e Campos (Fields). Através do estudo do conceito de encapsulamento (Orientação a objetos) demonstramos como o mesmo pode ser aplicado no contexto das classes em C#.
+
+ c) Métodos void
+ Tempo: 16:41 min
+Descrição: Nessa videoaula utilizamos o exemplo da classe criada para demonstrar algumas variações de utilização nas Propriedades (Properties) e Campos (Fields), dentro do conceito de escopo de uma classe. Ainda, exemplificamos o primeiro tipo de método a ser estudado, o void. Essa é a última videoaula deste curso. 
+
+ d) Entendendo o escopo de uma classe
+ Tempo: 15:10 min
+Descrição: Nessa videoaula utilizaremos o último exemplo visto na aula anterior. O objetivo dessa vídeo é transmitir um pouco mais de conhecimento básico sobre o escopo de uma classe. Iremos criar alguns métodos dentro da classe e entender o seu comportamento dentro da mesma e em seguida veremos como filtrar o escopo de uma classe e observar tudo que está contido nela. A base deste conhecimento é fundamental para que você não fique confuso sobre o que é uma classe. 
+
+
+
